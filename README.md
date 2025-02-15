@@ -20,11 +20,7 @@ The analysis is based on the Airbnb listings dataset, which contains information
 - **Insights & Recommendations:** Provide findings that could help hosts optimize their listings.
 
 ## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib & Seaborn
-- Jupyter Notebook
+- Microsoft Excel (Data Cleaning, Analysis, and Visualization)
 
 ## Results
 - Pricing trends by location
