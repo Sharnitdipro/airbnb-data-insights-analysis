@@ -37,8 +37,8 @@ Below are some key visualizations from the analysis:
 ### Price Distribution by Location
 ![Price Distribution](Images_airbnb_analysis/Distribution(After).jpg)
 
-### Availability Heatmap
-![Availability Heatmap](images/availability_heatmap.png)
+### Price Histogram
+![Price Histogram](Images_airbnb_analysis/Price Histogram.jpg)
 
 ### Room Type Distribution
 ![Room Type](images/room_type_distribution.png)
