@@ -35,7 +35,7 @@ The analysis is based on the Airbnb listings dataset, which contains information
 Below are some key visualizations from the analysis:
 
 ### Price Distribution by Location
-![Price Distribution](images/price_distribution.png)
+![Price Distribution](Images_airbnb_analysis/Distribution(After).jpg)
 
 ### Availability Heatmap
 ![Availability Heatmap](images/availability_heatmap.png)
